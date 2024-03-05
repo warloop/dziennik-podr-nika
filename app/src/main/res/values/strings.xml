@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Dziennik podróżnika</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="toolbar">Dziennik Podróżnika</string>
+    <string name="hint_entry_title">Nazwa wpisu</string>
+    <string name="hint_entry_text">Opis</string>
+    <string name="button_save">Zapisz</string>
+    <string name="entry_added">Wpis dodany</string>
+    <string name="empty_not_saved">Nie zapisano, nie wypełniłeś pól</string>
+    <string name="entry_edited">Wpis edytowany</string>
+    <string name="entry_archived">Wpis usunięty</string>
+
+    <string name="notify">Powiadomienie</string>
+    <string name="notify_ok">Pomyślnie zapisano zmiany</string>
+    <string name="camera">Otwórz aparat</string>
+    <string name="location">Lokalizacja</string>
+    <string name="find">Szukaj</string>
+
+</resources>

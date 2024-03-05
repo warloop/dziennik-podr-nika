@@ -1,0 +1,13 @@
+
+h
+java:S1192."FDefine a constant instead of duplicating this literal "Wpis1" 3 times.(¹ñ¦Ÿÿÿÿÿÿ8¹“…Ö1
+w
+java:S1192."UDefine a constant instead of duplicating this literal "podrÃ³Å¼ byÅ‚a fajna" 5 times.(¹ñ¦Ÿÿÿÿÿÿ8¹“…Ö1
+i
+java:S1192."GDefine a constant instead of duplicating this literal "Poland" 5 times.(¹ñ¦Ÿÿÿÿÿÿ8º“…Ö1
+n
+java:S3008"SRename this field "INSTANCE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(“ºÉñûÿÿÿÿ
+¯
+java:S6548"˜A Singleton implementation was detected. Make sure the use of the Singleton pattern is required and the implementation is the right one for the context.(°¨Ì×
+r
+java:S3077"WUse a thread-safe type; adding "volatile" is not enough to make this field thread-safe.(“ºÉñûÿÿÿÿ

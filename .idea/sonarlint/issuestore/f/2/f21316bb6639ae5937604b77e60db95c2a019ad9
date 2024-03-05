@@ -1,0 +1,31 @@
+
+w
+java:S2293¼"YReplace the type specification in this constructor call with the diamond operator ("<>").(þ‡Ï®8×ªÓ‘Ö1
+L
+java:S1066M"/Merge this if statement with the enclosing one.(„ÂõË8ØƒŸÖ1
+E
+java:S1604k"(Make this anonymous inner class a lambda(éÙÏ–8óÇÏ‘Ö1
+D
+java:S1604u"(Make this anonymous inner class a lambda(ÙÖì/8ÙªÓ‘Ö1
+J
+java:S1604}"(Make this anonymous inner class a lambda(´”þ§øÿÿÿÿ8ÙªÓ‘Ö1
+t
+java:S14504"WRemove the "retrofit" field and declare it as a local variable in the relevant methods.(´˜Å•8Ð„ŸÖ1
+\
+java:S1874­">Remove this use of "startActivityForResult"; it is deprecated.(¤ü©Â8°¬Ó‘Ö1
+h
+java:S1874²"JDon't override a deprecated method or explicitly mark it as "@Deprecated".(ŸŒ¹Ñ8°¬Ó‘Ö1
+H
+java:S1874¶"+Remove this use of "get"; it is deprecated.(¶õì>8±¬Ó‘Ö1
+¤
+java:S1186Ù"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¹Æº×þÿÿÿÿ8¶¬Ó‘Ö1
+Ÿ
+java:S1186Ž"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(áøµë8¼¬Ó‘Ö1
+Ÿ
+java:S1186‘"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(´ÂÜÇ8½¬Ó‘Ö1
+h
+java:S1874Ž"JDon't override a deprecated method or explicitly mark it as "@Deprecated".(áøµë8¾¬Ó‘Ö1
+m
+java:S1874¡"JDon't override a deprecated method or explicitly mark it as "@Deprecated".(Û›ë´øÿÿÿÿ8¾¬Ó‘Ö1
+[
+java:S1144é"8Remove this unused private "setCountryInSpinner" method.(Ž‚­àüÿÿÿÿ8Ã¬Ó‘Ö1

@@ -1,0 +1,28 @@
+
+J
+java:S1604W"(Make this anonymous inner class a lambda(®üöËüÿÿÿÿ8«¥¶Ö1
+D
+java:S1604`"(Make this anonymous inner class a lambda(§æÛ78«¥¶Ö1
+W
+java:S1874G":Remove this use of "getAdapterPosition"; it is deprecated.(úƒú8ï¥¶Ö1
+‰
+java:S3252M"gUse static access with "com.google.android.material.snackbar.BaseTransientBottomBar" for "LENGTH_LONG".(Œ¦ˆüÿÿÿÿ8ï¥¶Ö1
+\
+java:S1874V":Remove this use of "ViewModelProviders"; it is deprecated.(İ‚Î²ÿÿÿÿÿ8ñ¥¶Ö1
+L
+java:S1874V"*Remove this use of "of"; it is deprecated.(İ‚Î²ÿÿÿÿÿ8ñ¥¶Ö1
+[
+java:S1874e">Remove this use of "startActivityForResult"; it is deprecated.(¬ğ¤‚8ú¥¶Ö1
+g
+java:S1874"JDon't override a deprecated method or explicitly mark it as "@Deprecated".(¹Î¾8ü¥¶Ö1
+Š
+java:S3252"gUse static access with "com.google.android.material.snackbar.BaseTransientBottomBar" for "LENGTH_LONG".(Œ¦ˆüÿÿÿÿ8‚¦¶Ö1
+Š
+java:S3252š"gUse static access with "com.google.android.material.snackbar.BaseTransientBottomBar" for "LENGTH_LONG".(Œ¦ˆüÿÿÿÿ8‚¦¶Ö1
+K	java:S108")Either remove or fill this block of code.(çª‰¨şÿÿÿÿ8ƒ¦¶Ö1
+Š
+java:S3252¤"gUse static access with "com.google.android.material.snackbar.BaseTransientBottomBar" for "LENGTH_LONG".(Œ¦ˆüÿÿÿÿ8ƒ¦¶Ö1
+[
+java:S1874Ç">Remove this use of "startActivityForResult"; it is deprecated.(Ğ„³r8‡¦¶Ö1
+Š
+java:S3252Ğ"gUse static access with "com.google.android.material.snackbar.BaseTransientBottomBar" for "LENGTH_LONG".(Œ¦ˆüÿÿÿÿ8ˆ¦¶Ö1
